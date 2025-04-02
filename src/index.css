@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+body{
+  background-color: #211d1b;
+}
+
+.glow {
+  text-shadow: 0 0 10px #73abad
+}
+
+.blinking-cursor {
+  color: #ccc; /* Greyish color */
+  font-weight: bold;
+  animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
