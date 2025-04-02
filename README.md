@@ -5,7 +5,7 @@ It mimics a real terminal, allowing users to execute commands and interact with 
 
 ## 🌎 Live Demo
 
-🔗 [Try it here]()
+🔗 [Try it here](https://0terminal.vercel.app)
 
 ## 🚀 Features  
 - **Real-time typing effect** for commands  
